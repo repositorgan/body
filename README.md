@@ -13,7 +13,7 @@
 
 > User interaction
 
-> Agent
+> Shareholder interest
 
 _https://openai.com/careers/residency-2026-san-francisco/_
 
