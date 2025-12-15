@@ -7,14 +7,16 @@
 
 > Measureable & Creative, Research & Engineering, and Service & Sales
 
-_https://openai.com/careers/residency-2026-san-francisco/_
-
-_https://twitter.com/IBMtwc_
-
-_https://twitter.com/KieckheferA_
+**External Data Sharing**
 
 > Metrics reporting
 
 > User interaction
 
 > Agent
+
+_https://openai.com/careers/residency-2026-san-francisco/_
+
+_https://twitter.com/IBMtwc_
+
+_https://twitter.com/KieckheferA_
