@@ -10,6 +10,7 @@
 _https://openai.com/careers/residency-2026-san-francisco/_
 
 _https://twitter.com/IBMtwc_
+
 _https://twitter.com/KieckheferA_
 
 > Metrics reporting
