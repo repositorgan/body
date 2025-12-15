@@ -3,7 +3,7 @@
 
 > The purpose of this README is to establish emerging talent potential
 
-> Goal is to build more human relaionships in a profit sharing community
+> Goal is to build more human relaionships in a knowledge sharing community
 
 > Measureable & Creative, Research & Engineering, and Service & Sales
 
