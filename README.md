@@ -8,4 +8,5 @@
 > Measureable & Creative, Research & Engineering, and Service & Sales
 
 _https://openai.com/careers/residency-2026-san-francisco/_
+
 _https://twitter.com/IBMtwc_
