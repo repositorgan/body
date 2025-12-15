@@ -1,4 +1,4 @@
-## Weather related projects for research, deployment, and the business of weather
+## Business of weather
 
 **Purpose**
 
